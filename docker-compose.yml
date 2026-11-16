@@ -1,0 +1,45 @@
+name: chat-distribuido-lab
+x-group: &group
+  build: .
+  restart: unless-stopped
+  healthcheck:
+    test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8000/fed/health', timeout=2)"]
+    interval: 5s
+    timeout: 3s
+    retries: 10
+services:
+  central:
+    build: .
+    command: ["python", "-m", "uvicorn", "app.central_mock:app", "--host", "0.0.0.0", "--port", "8000"]
+    environment:
+      DB_PATH: /data/central.db
+    volumes: ["central-data:/data"]
+    ports: ["127.0.0.1:8000:8000"]
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8000/health', timeout=2)"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+  grupo-a:
+    <<: *group
+    environment:
+      GROUP_ID: ga
+      CENTRAL_URL: http://central:8000
+      PUBLIC_URL: http://grupo-a:8000
+      DB_PATH: /data/group.db
+    ports: ["127.0.0.1:8001:8000"]
+    volumes: ["a-data:/data"]
+  grupo-b:
+    <<: *group
+    environment:
+      GROUP_ID: gb
+      CENTRAL_URL: http://central:8000
+      PUBLIC_URL: http://grupo-b:8000
+      DB_PATH: /data/group.db
+    ports: ["127.0.0.1:8002:8000"]
+    volumes: ["b-data:/data"]
+volumes:
+  central-data:
+  a-data:
+  b-data:

@@ -1,0 +1,20 @@
+{
+  "timestamp_utc": "2026-11-11T21:08:41Z",
+  "python": "3.14.3",
+  "platform": "Windows-11-10.0.26300-SP0",
+  "backend": "docker",
+  "central": "simulador local; NO servidor oficial",
+  "parameters": {
+    "backend": "docker",
+    "output": "resultados/mi_equipo",
+    "durations": [
+      1,
+      2,
+      3
+    ],
+    "repetitions": 3,
+    "count": 40,
+    "rate": 10
+  },
+  "notes": "Ca\u00edda abrupta del proceso o contenedor receptor. Sincronizaci\u00f3n completa peri\u00f3dica."
+}

@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+data/
+.env
+.env.curso
+*.db
+*.db-wal
+*.db-shm
+
+*.zip
+material_personal/
+
+build/

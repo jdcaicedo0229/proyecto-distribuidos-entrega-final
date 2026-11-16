@@ -1,0 +1,14 @@
+{
+  "scope": "Pruebas propias, central simulado, backend docker",
+  "checks": [
+    "Registro de ambos grupos y creación de usuarios",
+    "Idempotencia del cliente",
+    "Envío y recepción por HTTP entre tres procesos",
+    "Duplicado responde 200 sin modificar reloj ni historial; campos desconocidos ignorados",
+    "Heartbeat detecta caída; usuario, reloj, historial y cola sobreviven a cierre abrupto",
+    "Cola persistente se entrega al recuperarse el central",
+    "Receptor recupera mensajes tras caída",
+    "Convergencia del historial y mismo orden, incluso con Lamport tardío bajo"
+  ],
+  "status": "PASS"
+}

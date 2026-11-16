@@ -1,0 +1,9 @@
+.git
+.venv
+__pycache__
+data
+resultados
+evidencias
+docs
+*.zip
+.env*

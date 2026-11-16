@@ -1,0 +1,3611 @@
+{
+  "sent": [
+    {
+      "id": "38661d66-5dcb-4181-a321-d83f083c80f6",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 134,
+      "sent_at": "2026-11-11T21:13:34.236974Z",
+      "body": "2s-1-ffcce9 mensaje 1"
+    },
+    {
+      "id": "31e4b30d-a888-4fa3-b01f-94eea15869ce",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 135,
+      "sent_at": "2026-11-11T21:13:36.331772Z",
+      "body": "2s-1-ffcce9 mensaje 2"
+    },
+    {
+      "id": "5d543980-d055-48e3-abb6-090629315786",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 136,
+      "sent_at": "2026-11-11T21:13:38.376961Z",
+      "body": "2s-1-ffcce9 mensaje 3"
+    },
+    {
+      "id": "bb60018d-893f-4f76-95b0-f9bade69ee47",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 137,
+      "sent_at": "2026-11-11T21:13:40.419580Z",
+      "body": "2s-1-ffcce9 mensaje 4"
+    },
+    {
+      "id": "49b1e84a-01c4-48be-bedd-f91414c1c9d6",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 138,
+      "sent_at": "2026-11-11T21:13:42.492558Z",
+      "body": "2s-1-ffcce9 mensaje 5"
+    },
+    {
+      "id": "39a45271-7612-4c5f-a9c1-bd54439cfb2f",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 139,
+      "sent_at": "2026-11-11T21:13:44.586896Z",
+      "body": "2s-1-ffcce9 mensaje 6"
+    },
+    {
+      "id": "0e823671-7db0-40b6-9900-df9833d71c98",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 140,
+      "sent_at": "2026-11-11T21:13:46.653913Z",
+      "body": "2s-1-ffcce9 mensaje 7"
+    },
+    {
+      "id": "af38e896-0302-4812-8ee9-fe8ef8a90918",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 141,
+      "sent_at": "2026-11-11T21:13:48.712275Z",
+      "body": "2s-1-ffcce9 mensaje 8"
+    },
+    {
+      "id": "40437515-092b-4d36-8de1-0c6c88907d6e",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 142,
+      "sent_at": "2026-11-11T21:13:50.787809Z",
+      "body": "2s-1-ffcce9 mensaje 9"
+    },
+    {
+      "id": "c8003a1f-de32-42d8-a6df-e0481fac5faa",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 143,
+      "sent_at": "2026-11-11T21:13:52.851396Z",
+      "body": "2s-1-ffcce9 mensaje 10"
+    },
+    {
+      "id": "11199655-894f-4cbf-96a1-af5423ddc828",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 144,
+      "sent_at": "2026-11-11T21:13:55.147711Z",
+      "body": "2s-1-ffcce9 mensaje 11"
+    },
+    {
+      "id": "43c6019d-533a-414e-a94f-52db42478ff1",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 145,
+      "sent_at": "2026-11-11T21:13:57.238734Z",
+      "body": "2s-1-ffcce9 mensaje 12"
+    },
+    {
+      "id": "eb54f50a-ce0e-401b-8866-45f9e59211bc",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 146,
+      "sent_at": "2026-11-11T21:13:59.332390Z",
+      "body": "2s-1-ffcce9 mensaje 13"
+    },
+    {
+      "id": "1c6cb8bb-e8d8-4fe5-bafc-cd9e96d84f85",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 147,
+      "sent_at": "2026-11-11T21:14:01.442255Z",
+      "body": "2s-1-ffcce9 mensaje 14"
+    },
+    {
+      "id": "f1612c0d-0f71-4114-b2a5-0a8b48b665e5",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 148,
+      "sent_at": "2026-11-11T21:14:03.508506Z",
+      "body": "2s-1-ffcce9 mensaje 15"
+    },
+    {
+      "id": "6e6f337c-cf9f-4934-804c-a4251b629c3a",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 149,
+      "sent_at": "2026-11-11T21:14:05.616885Z",
+      "body": "2s-1-ffcce9 mensaje 16"
+    },
+    {
+      "id": "b534dc5e-a255-4dba-af70-1755c0e64274",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 150,
+      "sent_at": "2026-11-11T21:14:07.688280Z",
+      "body": "2s-1-ffcce9 mensaje 17"
+    },
+    {
+      "id": "a6c8fa94-8fe3-4653-bcb9-3fdba08244ff",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 151,
+      "sent_at": "2026-11-11T21:14:09.769688Z",
+      "body": "2s-1-ffcce9 mensaje 18"
+    },
+    {
+      "id": "c78fae3e-a6de-4384-8abd-f6cdcb4b85ce",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 152,
+      "sent_at": "2026-11-11T21:14:11.870548Z",
+      "body": "2s-1-ffcce9 mensaje 19"
+    },
+    {
+      "id": "098d207c-24fb-46e5-bfda-0fdf20663e3d",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 153,
+      "sent_at": "2026-11-11T21:14:13.948494Z",
+      "body": "2s-1-ffcce9 mensaje 20"
+    },
+    {
+      "id": "4221e6b9-8a24-4c12-bda3-fa8a6d5de039",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 154,
+      "sent_at": "2026-11-11T21:14:15.834661Z",
+      "body": "2s-1-ffcce9 mensaje 21"
+    },
+    {
+      "id": "3f10aacb-ddeb-4cbc-9cb5-636e83ad80bd",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 155,
+      "sent_at": "2026-11-11T21:14:17.746672Z",
+      "body": "2s-1-ffcce9 mensaje 22"
+    },
+    {
+      "id": "6348b0c7-7abe-4cd4-b4a9-5f76cf3a6abf",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 156,
+      "sent_at": "2026-11-11T21:14:19.667175Z",
+      "body": "2s-1-ffcce9 mensaje 23"
+    },
+    {
+      "id": "0688e90c-6786-409d-9874-da8bdef5418c",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 157,
+      "sent_at": "2026-11-11T21:14:21.550003Z",
+      "body": "2s-1-ffcce9 mensaje 24"
+    },
+    {
+      "id": "9dc52827-b7a6-4158-aefa-41e4dc14109c",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 158,
+      "sent_at": "2026-11-11T21:14:23.433586Z",
+      "body": "2s-1-ffcce9 mensaje 25"
+    },
+    {
+      "id": "69158293-0485-45c2-aa35-1d704e7cde7e",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 159,
+      "sent_at": "2026-11-11T21:14:25.343088Z",
+      "body": "2s-1-ffcce9 mensaje 26"
+    },
+    {
+      "id": "87dbcb49-3d0d-4b1d-b867-aae2dc808dd8",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 160,
+      "sent_at": "2026-11-11T21:14:26.796649Z",
+      "body": "2s-1-ffcce9 mensaje 27"
+    },
+    {
+      "id": "49eb503b-b3a9-49ca-b5b5-e44d0c94a11f",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 161,
+      "sent_at": "2026-11-11T21:14:28.702910Z",
+      "body": "2s-1-ffcce9 mensaje 28"
+    },
+    {
+      "id": "b4e08413-d6ca-40a5-a6bd-eaa6337fd3c0",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 162,
+      "sent_at": "2026-11-11T21:14:30.595940Z",
+      "body": "2s-1-ffcce9 mensaje 29"
+    },
+    {
+      "id": "39e7d8a8-b767-407c-b29a-af2db1938370",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 163,
+      "sent_at": "2026-11-11T21:14:32.482160Z",
+      "body": "2s-1-ffcce9 mensaje 30"
+    },
+    {
+      "id": "63bec4ce-ea50-4ce2-8d78-0de6fd0d486f",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 164,
+      "sent_at": "2026-11-11T21:14:34.401436Z",
+      "body": "2s-1-ffcce9 mensaje 31"
+    },
+    {
+      "id": "272b8517-e8d7-41a3-adb4-72b7c83d4399",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 165,
+      "sent_at": "2026-11-11T21:14:36.312385Z",
+      "body": "2s-1-ffcce9 mensaje 32"
+    },
+    {
+      "id": "f97623f5-dabe-4d76-abfa-6e8ae0fff3af",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 166,
+      "sent_at": "2026-11-11T21:14:38.295454Z",
+      "body": "2s-1-ffcce9 mensaje 33"
+    },
+    {
+      "id": "4d6e3c2f-ac32-4c76-8313-35942f77b76a",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 167,
+      "sent_at": "2026-11-11T21:14:40.165777Z",
+      "body": "2s-1-ffcce9 mensaje 34"
+    },
+    {
+      "id": "21553c85-6b95-4663-969a-93831210515a",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 168,
+      "sent_at": "2026-11-11T21:14:42.063369Z",
+      "body": "2s-1-ffcce9 mensaje 35"
+    },
+    {
+      "id": "3c64322d-6f71-4789-8c41-6b07dfb613e2",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 169,
+      "sent_at": "2026-11-11T21:14:43.973333Z",
+      "body": "2s-1-ffcce9 mensaje 36"
+    },
+    {
+      "id": "38cd013d-600d-4540-b740-c42e83c246b6",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 170,
+      "sent_at": "2026-11-11T21:14:45.859871Z",
+      "body": "2s-1-ffcce9 mensaje 37"
+    },
+    {
+      "id": "9b7fd964-62b9-49b3-97cc-a733eb444254",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 171,
+      "sent_at": "2026-11-11T21:14:47.754905Z",
+      "body": "2s-1-ffcce9 mensaje 38"
+    },
+    {
+      "id": "213560c7-111f-484d-9144-244d9caf7fe0",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 172,
+      "sent_at": "2026-11-11T21:14:49.655890Z",
+      "body": "2s-1-ffcce9 mensaje 39"
+    },
+    {
+      "id": "69d0eb97-166e-43aa-9042-e9e8f35551eb",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 173,
+      "sent_at": "2026-11-11T21:14:51.530147Z",
+      "body": "2s-1-ffcce9 mensaje 40"
+    }
+  ],
+  "central": [
+    {
+      "id": "4bc30b8b-0bca-4e8b-a744-e2e532d549d9",
+      "from": "diego@ga",
+      "origin": "ga",
+      "lamport": 1,
+      "sent_at": "2026-11-11T20:51:01.072416Z",
+      "body": "Hola desde el grupo ga"
+    },
+    {
+      "id": "04b558d5-cce6-47c7-a093-09f521a788d3",
+      "from": "otro@gc",
+      "origin": "gc",
+      "lamport": 1,
+      "sent_at": "2026-11-11T21:06:31.999915Z",
+      "body": "evento tardío"
+    },
+    {
+      "id": "7e64e3bb-7397-48a9-a21e-9812412e5019",
+      "from": "invitado@gb",
+      "origin": "gb",
+      "lamport": 3,
+      "sent_at": "2026-11-11T20:52:02.346935Z",
+      "body": "Mensaje recibido. Respondo desde gb."
+    },
+    {
+      "id": "bcc58677-9b0d-499e-acb5-ff4b66b16a93",
+      "from": "diego@ga",
+      "origin": "ga",
+      "lamport": 5,
+      "sent_at": "2026-11-11T20:53:24.925048Z",
+      "body": "PRUEBA DE PERSISTENCIA\n"
+    },
+    {
+      "id": "409504d8-8d45-4c3f-b0c8-80257f3fb644",
+      "from": "diego@ga",
+      "origin": "ga",
+      "lamport": 6,
+      "sent_at": "2026-11-11T20:56:53.283495Z",
+      "body": "Durante la caída 1"
+    },
+    {
+      "id": "dab5afe5-b13b-482b-b773-54e6636b089c",
+      "from": "diego@ga",
+      "origin": "ga",
+      "lamport": 7,
+      "sent_at": "2026-11-11T20:57:03.997388Z",
+      "body": "Durante la caída 2"
+    },
+    {
+      "id": "43e9ffd2-d2e7-478d-9823-d4e406a3a537",
+      "from": "diego@ga",
+      "origin": "ga",
+      "lamport": 8,
+      "sent_at": "2026-11-11T20:57:16.395050Z",
+      "body": "Durante la caída 3"
+    },
+    {
+      "id": "2cce15d7-daa2-4ca5-b645-d0faf81b9558",
+      "from": "diego@ga",
+      "origin": "ga",
+      "lamport": 9,
+      "sent_at": "2026-11-11T21:00:13.895829Z",
+      "body": "Mensaje guardado mientras el central está apagado"
+    },
+    {
+      "id": "7dd8b362-6aa4-4e6f-8e9d-00cc2b2f1b5b",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 10,
+      "sent_at": "2026-11-11T21:06:31.999915Z",
+      "body": "mensaje de integración"
+    },
+    {
+      "id": "165ac5dd-68b1-40e2-bca0-6f4087f34e1f",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 11,
+      "sent_at": "2026-11-11T21:07:01.847021Z",
+      "body": "guardado con central caído"
+    },
+    {
+      "id": "6ab7ac2d-c993-429f-af98-a835190165b5",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 12,
+      "sent_at": "2026-11-11T21:07:19.371361Z",
+      "body": "historial durante caída del receptor"
+    },
+    {
+      "id": "c21aeb6f-8d70-41de-b4ab-bd517b745017",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 14,
+      "sent_at": "2026-11-11T21:08:58.993208Z",
+      "body": "1s-1-668aad mensaje 1"
+    },
+    {
+      "id": "0b974d37-ca48-44cd-bc0a-002736561982",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 15,
+      "sent_at": "2026-11-11T21:09:01.077659Z",
+      "body": "1s-1-668aad mensaje 2"
+    },
+    {
+      "id": "e7093427-a5d2-4722-9847-dea1dddd8f0e",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 16,
+      "sent_at": "2026-11-11T21:09:03.115675Z",
+      "body": "1s-1-668aad mensaje 3"
+    },
+    {
+      "id": "bcd2c403-136a-4882-8757-5723fc1a79b0",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 17,
+      "sent_at": "2026-11-11T21:09:05.172773Z",
+      "body": "1s-1-668aad mensaje 4"
+    },
+    {
+      "id": "c60ac337-2b07-4986-a31a-e9ed3ef2d738",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 18,
+      "sent_at": "2026-11-11T21:09:07.271870Z",
+      "body": "1s-1-668aad mensaje 5"
+    },
+    {
+      "id": "2f7617c7-46fd-4efb-ad32-698f30fd88de",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 19,
+      "sent_at": "2026-11-11T21:09:09.353480Z",
+      "body": "1s-1-668aad mensaje 6"
+    },
+    {
+      "id": "8c9868e4-ce03-46ce-b40f-f097c16b6414",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 20,
+      "sent_at": "2026-11-11T21:09:11.454646Z",
+      "body": "1s-1-668aad mensaje 7"
+    },
+    {
+      "id": "8825ce1c-af09-43d4-9851-2f014b8cb600",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 21,
+      "sent_at": "2026-11-11T21:09:13.525506Z",
+      "body": "1s-1-668aad mensaje 8"
+    },
+    {
+      "id": "989f04d8-b5aa-44d3-8f6a-38795d74f4d8",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 22,
+      "sent_at": "2026-11-11T21:09:15.615106Z",
+      "body": "1s-1-668aad mensaje 9"
+    },
+    {
+      "id": "82dbcd80-7ec4-4bde-97b0-c9965baf6aa2",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 23,
+      "sent_at": "2026-11-11T21:09:17.723005Z",
+      "body": "1s-1-668aad mensaje 10"
+    },
+    {
+      "id": "680a33b2-7911-4e70-a6f3-e10923b7799e",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 24,
+      "sent_at": "2026-11-11T21:09:19.827096Z",
+      "body": "1s-1-668aad mensaje 11"
+    },
+    {
+      "id": "60b2a4e3-a09e-437a-8da6-9cfdaa3517db",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 25,
+      "sent_at": "2026-11-11T21:09:21.928668Z",
+      "body": "1s-1-668aad mensaje 12"
+    },
+    {
+      "id": "292284e1-70b0-48b4-a958-e22aec82d091",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 26,
+      "sent_at": "2026-11-11T21:09:23.984026Z",
+      "body": "1s-1-668aad mensaje 13"
+    },
+    {
+      "id": "fc5ef101-9735-466e-97ec-046252e43ab2",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 27,
+      "sent_at": "2026-11-11T21:09:26.047269Z",
+      "body": "1s-1-668aad mensaje 14"
+    },
+    {
+      "id": "408e5445-7d0e-4f3a-bfd8-bf330da30f17",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 28,
+      "sent_at": "2026-11-11T21:09:28.155476Z",
+      "body": "1s-1-668aad mensaje 15"
+    },
+    {
+      "id": "3fc18d25-287e-4b9c-a4b3-2e531e832786",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 29,
+      "sent_at": "2026-11-11T21:09:30.246990Z",
+      "body": "1s-1-668aad mensaje 16"
+    },
+    {
+      "id": "6b75d3b3-a063-4f96-954e-5ecd96fbe237",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 30,
+      "sent_at": "2026-11-11T21:09:32.318292Z",
+      "body": "1s-1-668aad mensaje 17"
+    },
+    {
+      "id": "943403ff-ac23-49df-8c6c-3f608a17ba50",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 31,
+      "sent_at": "2026-11-11T21:09:34.397329Z",
+      "body": "1s-1-668aad mensaje 18"
+    },
+    {
+      "id": "d928a4e0-d9cd-44ac-a4ac-fd3713664650",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 32,
+      "sent_at": "2026-11-11T21:09:36.486301Z",
+      "body": "1s-1-668aad mensaje 19"
+    },
+    {
+      "id": "b1564c53-5685-4aac-bfc0-5650776fdf1b",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 33,
+      "sent_at": "2026-11-11T21:09:38.559136Z",
+      "body": "1s-1-668aad mensaje 20"
+    },
+    {
+      "id": "634b2293-8cf0-495e-a599-6b46fd3e1f53",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 34,
+      "sent_at": "2026-11-11T21:09:40.643734Z",
+      "body": "1s-1-668aad mensaje 21"
+    },
+    {
+      "id": "1e6584ea-233d-4063-ac1a-83c0d66daa5c",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 35,
+      "sent_at": "2026-11-11T21:09:42.746911Z",
+      "body": "1s-1-668aad mensaje 22"
+    },
+    {
+      "id": "65ae539f-ab23-47ba-8ed2-79b1e2bb1d48",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 36,
+      "sent_at": "2026-11-11T21:09:44.868693Z",
+      "body": "1s-1-668aad mensaje 23"
+    },
+    {
+      "id": "04f3182d-17bb-4ff4-8cda-521a2fa5fea2",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 37,
+      "sent_at": "2026-11-11T21:09:46.959429Z",
+      "body": "1s-1-668aad mensaje 24"
+    },
+    {
+      "id": "d23a6733-0a43-4a15-b25f-eede2ab3af57",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 38,
+      "sent_at": "2026-11-11T21:09:49.087876Z",
+      "body": "1s-1-668aad mensaje 25"
+    },
+    {
+      "id": "38142308-b45c-4ff8-9b7d-9059329382ec",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 39,
+      "sent_at": "2026-11-11T21:09:51.162218Z",
+      "body": "1s-1-668aad mensaje 26"
+    },
+    {
+      "id": "7ddf1604-c463-49e9-96ab-48572111636f",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 40,
+      "sent_at": "2026-11-11T21:09:53.254146Z",
+      "body": "1s-1-668aad mensaje 27"
+    },
+    {
+      "id": "45e9bbff-430d-4ef1-bf84-da94e97b576a",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 41,
+      "sent_at": "2026-11-11T21:09:55.348773Z",
+      "body": "1s-1-668aad mensaje 28"
+    },
+    {
+      "id": "5a3bd653-9e1f-4240-84c7-0e9acc36e2ee",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 42,
+      "sent_at": "2026-11-11T21:09:57.422113Z",
+      "body": "1s-1-668aad mensaje 29"
+    },
+    {
+      "id": "d38f0170-1702-4b01-bc60-874202380f4f",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 43,
+      "sent_at": "2026-11-11T21:09:59.494601Z",
+      "body": "1s-1-668aad mensaje 30"
+    },
+    {
+      "id": "1f233382-6008-4bbe-bb91-02739fbee472",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 44,
+      "sent_at": "2026-11-11T21:10:01.590770Z",
+      "body": "1s-1-668aad mensaje 31"
+    },
+    {
+      "id": "9a2c19be-e4bb-4efe-8328-73819832f615",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 45,
+      "sent_at": "2026-11-11T21:10:03.681549Z",
+      "body": "1s-1-668aad mensaje 32"
+    },
+    {
+      "id": "abf0fffc-f342-4b43-915d-2f9ae8d3c931",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 46,
+      "sent_at": "2026-11-11T21:10:05.751686Z",
+      "body": "1s-1-668aad mensaje 33"
+    },
+    {
+      "id": "1d686a9e-03fa-4228-bf5d-825af346dc87",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 47,
+      "sent_at": "2026-11-11T21:10:07.852997Z",
+      "body": "1s-1-668aad mensaje 34"
+    },
+    {
+      "id": "dcd183f5-4521-4391-a821-01d31451ae58",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 48,
+      "sent_at": "2026-11-11T21:10:09.957171Z",
+      "body": "1s-1-668aad mensaje 35"
+    },
+    {
+      "id": "6ce07019-1ea5-4c27-85ae-5ccc614c8dd7",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 49,
+      "sent_at": "2026-11-11T21:10:12.021134Z",
+      "body": "1s-1-668aad mensaje 36"
+    },
+    {
+      "id": "bf9cbb43-0369-43de-818c-02675d704802",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 50,
+      "sent_at": "2026-11-11T21:10:14.136329Z",
+      "body": "1s-1-668aad mensaje 37"
+    },
+    {
+      "id": "56d0768d-e24e-4a48-a0b4-5c61728c75f0",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 51,
+      "sent_at": "2026-11-11T21:10:16.231113Z",
+      "body": "1s-1-668aad mensaje 38"
+    },
+    {
+      "id": "6a3c7a65-4acc-4a99-b1f5-8f13d499b476",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 52,
+      "sent_at": "2026-11-11T21:10:18.328869Z",
+      "body": "1s-1-668aad mensaje 39"
+    },
+    {
+      "id": "eb354d1a-61e4-425e-ace6-0cff923b35d2",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 53,
+      "sent_at": "2026-11-11T21:10:20.399050Z",
+      "body": "1s-1-668aad mensaje 40"
+    },
+    {
+      "id": "118b45be-633c-44a5-a4f3-35fd57dd9832",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 54,
+      "sent_at": "2026-11-11T21:10:30.730328Z",
+      "body": "1s-2-d876b7 mensaje 1"
+    },
+    {
+      "id": "9530dd25-6011-4168-876c-a52a3492e1dd",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 55,
+      "sent_at": "2026-11-11T21:10:32.830128Z",
+      "body": "1s-2-d876b7 mensaje 2"
+    },
+    {
+      "id": "91c31b53-bd78-4420-8248-9efdc9aa2164",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 56,
+      "sent_at": "2026-11-11T21:10:34.904976Z",
+      "body": "1s-2-d876b7 mensaje 3"
+    },
+    {
+      "id": "e0cd2119-de70-4353-b347-e867f0b741b4",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 57,
+      "sent_at": "2026-11-11T21:10:36.990426Z",
+      "body": "1s-2-d876b7 mensaje 4"
+    },
+    {
+      "id": "dfb0b2fd-df93-41ac-851a-1c774dc143e9",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 58,
+      "sent_at": "2026-11-11T21:10:39.110525Z",
+      "body": "1s-2-d876b7 mensaje 5"
+    },
+    {
+      "id": "8acf436e-f1af-4e2d-994b-805b996806a4",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 59,
+      "sent_at": "2026-11-11T21:10:41.182995Z",
+      "body": "1s-2-d876b7 mensaje 6"
+    },
+    {
+      "id": "add139c7-363e-4ce5-946d-f1349289328c",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 60,
+      "sent_at": "2026-11-11T21:10:43.270865Z",
+      "body": "1s-2-d876b7 mensaje 7"
+    },
+    {
+      "id": "07797013-af28-430b-b35a-dc335e792a16",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 61,
+      "sent_at": "2026-11-11T21:10:45.362752Z",
+      "body": "1s-2-d876b7 mensaje 8"
+    },
+    {
+      "id": "ccb72344-0e50-4971-b028-7e8a0d5ab87d",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 62,
+      "sent_at": "2026-11-11T21:10:47.452204Z",
+      "body": "1s-2-d876b7 mensaje 9"
+    },
+    {
+      "id": "83107cd7-949c-4c5b-b25a-72e8bd3ca308",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 63,
+      "sent_at": "2026-11-11T21:10:49.496725Z",
+      "body": "1s-2-d876b7 mensaje 10"
+    },
+    {
+      "id": "0505be16-0a1c-401d-a30c-0f15c2058375",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 64,
+      "sent_at": "2026-11-11T21:10:51.539780Z",
+      "body": "1s-2-d876b7 mensaje 11"
+    },
+    {
+      "id": "4af38a13-3c14-4640-b200-1bd24e928596",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 65,
+      "sent_at": "2026-11-11T21:10:53.657475Z",
+      "body": "1s-2-d876b7 mensaje 12"
+    },
+    {
+      "id": "dbbf41e1-54d8-43ae-8004-fda6aadfe513",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 66,
+      "sent_at": "2026-11-11T21:10:55.735661Z",
+      "body": "1s-2-d876b7 mensaje 13"
+    },
+    {
+      "id": "e4ce1d6e-b15f-4470-b6bb-9f032e7a677a",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 67,
+      "sent_at": "2026-11-11T21:10:57.813825Z",
+      "body": "1s-2-d876b7 mensaje 14"
+    },
+    {
+      "id": "18ee3641-d89f-4ca7-ad67-2108f202e90a",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 68,
+      "sent_at": "2026-11-11T21:10:59.890711Z",
+      "body": "1s-2-d876b7 mensaje 15"
+    },
+    {
+      "id": "c2c0a298-088b-4d04-9352-396e8388ab6f",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 69,
+      "sent_at": "2026-11-11T21:11:02.011000Z",
+      "body": "1s-2-d876b7 mensaje 16"
+    },
+    {
+      "id": "bfb8c2d7-2879-49c9-afb0-a33a76e66952",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 70,
+      "sent_at": "2026-11-11T21:11:04.373337Z",
+      "body": "1s-2-d876b7 mensaje 17"
+    },
+    {
+      "id": "6e0cfecd-4e4b-4516-bf44-2dc90de9660d",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 71,
+      "sent_at": "2026-11-11T21:11:06.487993Z",
+      "body": "1s-2-d876b7 mensaje 18"
+    },
+    {
+      "id": "6453d0c0-3d6b-46e7-8013-519e8c4726fc",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 72,
+      "sent_at": "2026-11-11T21:11:08.567567Z",
+      "body": "1s-2-d876b7 mensaje 19"
+    },
+    {
+      "id": "3d147730-f0c9-43f6-a5be-58fe79a4f6d5",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 73,
+      "sent_at": "2026-11-11T21:11:10.628084Z",
+      "body": "1s-2-d876b7 mensaje 20"
+    },
+    {
+      "id": "eb01100e-6476-4a0f-ad9a-eb8fea291108",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 74,
+      "sent_at": "2026-11-11T21:11:12.681735Z",
+      "body": "1s-2-d876b7 mensaje 21"
+    },
+    {
+      "id": "7b04741a-00c7-460f-baeb-1fbcade91b7f",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 75,
+      "sent_at": "2026-11-11T21:11:14.767783Z",
+      "body": "1s-2-d876b7 mensaje 22"
+    },
+    {
+      "id": "f81be495-5633-499c-b4f2-e332f39706d5",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 76,
+      "sent_at": "2026-11-11T21:11:16.855167Z",
+      "body": "1s-2-d876b7 mensaje 23"
+    },
+    {
+      "id": "027460cb-6c5b-4de2-b45d-6deaaaa9d0e7",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 77,
+      "sent_at": "2026-11-11T21:11:18.904116Z",
+      "body": "1s-2-d876b7 mensaje 24"
+    },
+    {
+      "id": "57ee7672-d5c7-496e-827b-707be388ea7c",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 78,
+      "sent_at": "2026-11-11T21:11:20.963400Z",
+      "body": "1s-2-d876b7 mensaje 25"
+    },
+    {
+      "id": "344374bc-2da2-43ba-b0b4-92cf6ea384cd",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 79,
+      "sent_at": "2026-11-11T21:11:23.016666Z",
+      "body": "1s-2-d876b7 mensaje 26"
+    },
+    {
+      "id": "1a9ffddd-add4-4f94-9a9f-bed08ea409e9",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 80,
+      "sent_at": "2026-11-11T21:11:25.083870Z",
+      "body": "1s-2-d876b7 mensaje 27"
+    },
+    {
+      "id": "7d0c51b7-9ba1-4707-aade-43468042882d",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 81,
+      "sent_at": "2026-11-11T21:11:27.171387Z",
+      "body": "1s-2-d876b7 mensaje 28"
+    },
+    {
+      "id": "5d47bdc7-bde0-47a2-8763-7a097c808a38",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 82,
+      "sent_at": "2026-11-11T21:11:29.252230Z",
+      "body": "1s-2-d876b7 mensaje 29"
+    },
+    {
+      "id": "6eb10012-66f8-4e4e-a149-402624a77a27",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 83,
+      "sent_at": "2026-11-11T21:11:31.313436Z",
+      "body": "1s-2-d876b7 mensaje 30"
+    },
+    {
+      "id": "30c50767-a0f8-4b08-9ce3-e33d1cfff171",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 84,
+      "sent_at": "2026-11-11T21:11:33.370879Z",
+      "body": "1s-2-d876b7 mensaje 31"
+    },
+    {
+      "id": "44e1fe8f-1614-4de7-a4aa-14c7c9220658",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 85,
+      "sent_at": "2026-11-11T21:11:35.416388Z",
+      "body": "1s-2-d876b7 mensaje 32"
+    },
+    {
+      "id": "60b1095a-f5c3-4a19-bd54-b910a79fec82",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 86,
+      "sent_at": "2026-11-11T21:11:37.495821Z",
+      "body": "1s-2-d876b7 mensaje 33"
+    },
+    {
+      "id": "f021d346-84a3-4b30-b852-09ec2af69bd5",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 87,
+      "sent_at": "2026-11-11T21:11:39.551630Z",
+      "body": "1s-2-d876b7 mensaje 34"
+    },
+    {
+      "id": "969fc374-5f1b-466e-8107-d347504abb61",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 88,
+      "sent_at": "2026-11-11T21:11:41.627565Z",
+      "body": "1s-2-d876b7 mensaje 35"
+    },
+    {
+      "id": "4c552ab7-f46b-4e15-8988-d2017166ecbc",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 89,
+      "sent_at": "2026-11-11T21:11:43.723929Z",
+      "body": "1s-2-d876b7 mensaje 36"
+    },
+    {
+      "id": "710b5a46-993a-4d12-b4de-d1bf1fbe404d",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 90,
+      "sent_at": "2026-11-11T21:11:45.836481Z",
+      "body": "1s-2-d876b7 mensaje 37"
+    },
+    {
+      "id": "80075219-0a70-4986-94a7-d98114329316",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 91,
+      "sent_at": "2026-11-11T21:11:47.941769Z",
+      "body": "1s-2-d876b7 mensaje 38"
+    },
+    {
+      "id": "95231cde-f5c4-403b-8065-71d8d0869e29",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 92,
+      "sent_at": "2026-11-11T21:11:50.028768Z",
+      "body": "1s-2-d876b7 mensaje 39"
+    },
+    {
+      "id": "673ab65b-e2ff-40ab-9298-c9ddf17dc7c9",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 93,
+      "sent_at": "2026-11-11T21:11:52.108857Z",
+      "body": "1s-2-d876b7 mensaje 40"
+    },
+    {
+      "id": "77af2ac3-044b-42ea-b249-a4a0f9bf069d",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 94,
+      "sent_at": "2026-11-11T21:12:02.413222Z",
+      "body": "1s-3-e89b8f mensaje 1"
+    },
+    {
+      "id": "a51a0f08-d9bb-4fb1-835f-ab59e85a9fcd",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 95,
+      "sent_at": "2026-11-11T21:12:04.493994Z",
+      "body": "1s-3-e89b8f mensaje 2"
+    },
+    {
+      "id": "f0174ad4-c7cb-47ba-ac4f-8c8477122365",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 96,
+      "sent_at": "2026-11-11T21:12:06.566457Z",
+      "body": "1s-3-e89b8f mensaje 3"
+    },
+    {
+      "id": "282ea449-7b08-4e6f-aa5b-0786df19e07e",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 97,
+      "sent_at": "2026-11-11T21:12:08.673364Z",
+      "body": "1s-3-e89b8f mensaje 4"
+    },
+    {
+      "id": "8a59ad30-d1e6-4d9c-b2b3-f73a7afe6513",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 98,
+      "sent_at": "2026-11-11T21:12:10.753033Z",
+      "body": "1s-3-e89b8f mensaje 5"
+    },
+    {
+      "id": "9c1a1392-db0d-488f-b724-e95607552526",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 99,
+      "sent_at": "2026-11-11T21:12:12.840170Z",
+      "body": "1s-3-e89b8f mensaje 6"
+    },
+    {
+      "id": "0c60efb3-04f3-4402-b6d7-9f8dc6fd202c",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 100,
+      "sent_at": "2026-11-11T21:12:14.878157Z",
+      "body": "1s-3-e89b8f mensaje 7"
+    },
+    {
+      "id": "7806cf5c-00e3-4080-9737-6c4547df7359",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 101,
+      "sent_at": "2026-11-11T21:12:16.995768Z",
+      "body": "1s-3-e89b8f mensaje 8"
+    },
+    {
+      "id": "605daaf1-3a06-4510-8554-e405569dddce",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 102,
+      "sent_at": "2026-11-11T21:12:19.310152Z",
+      "body": "1s-3-e89b8f mensaje 9"
+    },
+    {
+      "id": "159d3601-adcc-421e-99c8-fef03859a584",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 103,
+      "sent_at": "2026-11-11T21:12:21.367393Z",
+      "body": "1s-3-e89b8f mensaje 10"
+    },
+    {
+      "id": "8c7cdfeb-8e6e-4f14-97ad-173ec890ba18",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 104,
+      "sent_at": "2026-11-11T21:12:23.449473Z",
+      "body": "1s-3-e89b8f mensaje 11"
+    },
+    {
+      "id": "488429cd-a42d-4e2f-9508-6dc4f7b4ae9f",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 105,
+      "sent_at": "2026-11-11T21:12:25.513223Z",
+      "body": "1s-3-e89b8f mensaje 12"
+    },
+    {
+      "id": "15520316-713a-4ea4-a578-2ed19383c331",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 106,
+      "sent_at": "2026-11-11T21:12:27.599996Z",
+      "body": "1s-3-e89b8f mensaje 13"
+    },
+    {
+      "id": "e5a9a201-51d9-4e60-9721-67742006a0ef",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 107,
+      "sent_at": "2026-11-11T21:12:29.667918Z",
+      "body": "1s-3-e89b8f mensaje 14"
+    },
+    {
+      "id": "a0a678ee-2158-48e9-94be-af1b32e36fbd",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 108,
+      "sent_at": "2026-11-11T21:12:31.730574Z",
+      "body": "1s-3-e89b8f mensaje 15"
+    },
+    {
+      "id": "1cf518c6-bf3d-4135-9a11-b88d0dfcb4ce",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 109,
+      "sent_at": "2026-11-11T21:12:33.796280Z",
+      "body": "1s-3-e89b8f mensaje 16"
+    },
+    {
+      "id": "3471d68c-6147-4221-a272-f71089b12e8d",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 110,
+      "sent_at": "2026-11-11T21:12:35.887130Z",
+      "body": "1s-3-e89b8f mensaje 17"
+    },
+    {
+      "id": "135a6bf0-cb61-4b5f-81fc-0e4795342263",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 111,
+      "sent_at": "2026-11-11T21:12:37.974790Z",
+      "body": "1s-3-e89b8f mensaje 18"
+    },
+    {
+      "id": "ba0c4820-efb5-47e0-bbf4-1ed971c63ec5",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 112,
+      "sent_at": "2026-11-11T21:12:40.060548Z",
+      "body": "1s-3-e89b8f mensaje 19"
+    },
+    {
+      "id": "bb2801ea-4732-4da4-92fa-886864afc2da",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 113,
+      "sent_at": "2026-11-11T21:12:42.143488Z",
+      "body": "1s-3-e89b8f mensaje 20"
+    },
+    {
+      "id": "310dc046-c42d-494f-b81e-099e2fea73e0",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 114,
+      "sent_at": "2026-11-11T21:12:44.235733Z",
+      "body": "1s-3-e89b8f mensaje 21"
+    },
+    {
+      "id": "1327e902-95cf-4a9f-b047-6b52e04646d5",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 115,
+      "sent_at": "2026-11-11T21:12:46.348210Z",
+      "body": "1s-3-e89b8f mensaje 22"
+    },
+    {
+      "id": "6ce76ee5-6dfc-4785-b4e2-45a8e5e4f965",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 116,
+      "sent_at": "2026-11-11T21:12:48.425336Z",
+      "body": "1s-3-e89b8f mensaje 23"
+    },
+    {
+      "id": "8cfed12c-6f71-45af-a433-7e06b67c4851",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 117,
+      "sent_at": "2026-11-11T21:12:50.500304Z",
+      "body": "1s-3-e89b8f mensaje 24"
+    },
+    {
+      "id": "756cee8d-4f64-482d-b107-1fa1cbd53b43",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 118,
+      "sent_at": "2026-11-11T21:12:52.623218Z",
+      "body": "1s-3-e89b8f mensaje 25"
+    },
+    {
+      "id": "d30c5a6d-ea64-4d51-8d0f-512e21136c2a",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 119,
+      "sent_at": "2026-11-11T21:12:54.671810Z",
+      "body": "1s-3-e89b8f mensaje 26"
+    },
+    {
+      "id": "0cf7a545-e4f6-402d-99a6-4dc41bb9eb6e",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 120,
+      "sent_at": "2026-11-11T21:12:56.733093Z",
+      "body": "1s-3-e89b8f mensaje 27"
+    },
+    {
+      "id": "ccd76ce4-587a-49d9-a650-c66c1e452bf2",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 121,
+      "sent_at": "2026-11-11T21:12:58.799255Z",
+      "body": "1s-3-e89b8f mensaje 28"
+    },
+    {
+      "id": "c21c1f3e-e730-4d3b-ae0d-be307ca3d365",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 122,
+      "sent_at": "2026-11-11T21:13:00.896591Z",
+      "body": "1s-3-e89b8f mensaje 29"
+    },
+    {
+      "id": "0cba561c-babb-4371-a219-bfd8b973b8fe",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 123,
+      "sent_at": "2026-11-11T21:13:02.991471Z",
+      "body": "1s-3-e89b8f mensaje 30"
+    },
+    {
+      "id": "aa661e36-8b47-4e97-a7c1-b1e65d81cfef",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 124,
+      "sent_at": "2026-11-11T21:13:05.051365Z",
+      "body": "1s-3-e89b8f mensaje 31"
+    },
+    {
+      "id": "7e4a5592-97a6-462b-ae6a-f7ae6ad8f92c",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 125,
+      "sent_at": "2026-11-11T21:13:07.122289Z",
+      "body": "1s-3-e89b8f mensaje 32"
+    },
+    {
+      "id": "7760f4d0-f9c6-4648-89cb-ecacc43685e3",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 126,
+      "sent_at": "2026-11-11T21:13:09.219908Z",
+      "body": "1s-3-e89b8f mensaje 33"
+    },
+    {
+      "id": "4bd47486-ec7a-42ba-961f-9be4361d1aa1",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 127,
+      "sent_at": "2026-11-11T21:13:11.320623Z",
+      "body": "1s-3-e89b8f mensaje 34"
+    },
+    {
+      "id": "06cd94f5-2960-494f-9ebf-a111c1d246a1",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 128,
+      "sent_at": "2026-11-11T21:13:13.415461Z",
+      "body": "1s-3-e89b8f mensaje 35"
+    },
+    {
+      "id": "67443a1f-bd7b-475e-9a9d-456b23c0595a",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 129,
+      "sent_at": "2026-11-11T21:13:15.503192Z",
+      "body": "1s-3-e89b8f mensaje 36"
+    },
+    {
+      "id": "0fe8c672-cc18-41f5-879f-fce7e7735f4d",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 130,
+      "sent_at": "2026-11-11T21:13:17.593978Z",
+      "body": "1s-3-e89b8f mensaje 37"
+    },
+    {
+      "id": "66ca0e8c-a165-485a-a9e2-490621ae6447",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 131,
+      "sent_at": "2026-11-11T21:13:19.687233Z",
+      "body": "1s-3-e89b8f mensaje 38"
+    },
+    {
+      "id": "09417f37-4a3c-492b-be7b-f53523ba7c86",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 132,
+      "sent_at": "2026-11-11T21:13:21.779092Z",
+      "body": "1s-3-e89b8f mensaje 39"
+    },
+    {
+      "id": "d75e3449-e6aa-4c91-93c5-5b7724e02835",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 133,
+      "sent_at": "2026-11-11T21:13:23.873595Z",
+      "body": "1s-3-e89b8f mensaje 40"
+    },
+    {
+      "id": "38661d66-5dcb-4181-a321-d83f083c80f6",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 134,
+      "sent_at": "2026-11-11T21:13:34.236974Z",
+      "body": "2s-1-ffcce9 mensaje 1"
+    },
+    {
+      "id": "31e4b30d-a888-4fa3-b01f-94eea15869ce",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 135,
+      "sent_at": "2026-11-11T21:13:36.331772Z",
+      "body": "2s-1-ffcce9 mensaje 2"
+    },
+    {
+      "id": "5d543980-d055-48e3-abb6-090629315786",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 136,
+      "sent_at": "2026-11-11T21:13:38.376961Z",
+      "body": "2s-1-ffcce9 mensaje 3"
+    },
+    {
+      "id": "bb60018d-893f-4f76-95b0-f9bade69ee47",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 137,
+      "sent_at": "2026-11-11T21:13:40.419580Z",
+      "body": "2s-1-ffcce9 mensaje 4"
+    },
+    {
+      "id": "49b1e84a-01c4-48be-bedd-f91414c1c9d6",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 138,
+      "sent_at": "2026-11-11T21:13:42.492558Z",
+      "body": "2s-1-ffcce9 mensaje 5"
+    },
+    {
+      "id": "39a45271-7612-4c5f-a9c1-bd54439cfb2f",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 139,
+      "sent_at": "2026-11-11T21:13:44.586896Z",
+      "body": "2s-1-ffcce9 mensaje 6"
+    },
+    {
+      "id": "0e823671-7db0-40b6-9900-df9833d71c98",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 140,
+      "sent_at": "2026-11-11T21:13:46.653913Z",
+      "body": "2s-1-ffcce9 mensaje 7"
+    },
+    {
+      "id": "af38e896-0302-4812-8ee9-fe8ef8a90918",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 141,
+      "sent_at": "2026-11-11T21:13:48.712275Z",
+      "body": "2s-1-ffcce9 mensaje 8"
+    },
+    {
+      "id": "40437515-092b-4d36-8de1-0c6c88907d6e",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 142,
+      "sent_at": "2026-11-11T21:13:50.787809Z",
+      "body": "2s-1-ffcce9 mensaje 9"
+    },
+    {
+      "id": "c8003a1f-de32-42d8-a6df-e0481fac5faa",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 143,
+      "sent_at": "2026-11-11T21:13:52.851396Z",
+      "body": "2s-1-ffcce9 mensaje 10"
+    },
+    {
+      "id": "11199655-894f-4cbf-96a1-af5423ddc828",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 144,
+      "sent_at": "2026-11-11T21:13:55.147711Z",
+      "body": "2s-1-ffcce9 mensaje 11"
+    },
+    {
+      "id": "43c6019d-533a-414e-a94f-52db42478ff1",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 145,
+      "sent_at": "2026-11-11T21:13:57.238734Z",
+      "body": "2s-1-ffcce9 mensaje 12"
+    },
+    {
+      "id": "eb54f50a-ce0e-401b-8866-45f9e59211bc",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 146,
+      "sent_at": "2026-11-11T21:13:59.332390Z",
+      "body": "2s-1-ffcce9 mensaje 13"
+    },
+    {
+      "id": "1c6cb8bb-e8d8-4fe5-bafc-cd9e96d84f85",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 147,
+      "sent_at": "2026-11-11T21:14:01.442255Z",
+      "body": "2s-1-ffcce9 mensaje 14"
+    },
+    {
+      "id": "f1612c0d-0f71-4114-b2a5-0a8b48b665e5",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 148,
+      "sent_at": "2026-11-11T21:14:03.508506Z",
+      "body": "2s-1-ffcce9 mensaje 15"
+    },
+    {
+      "id": "6e6f337c-cf9f-4934-804c-a4251b629c3a",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 149,
+      "sent_at": "2026-11-11T21:14:05.616885Z",
+      "body": "2s-1-ffcce9 mensaje 16"
+    },
+    {
+      "id": "b534dc5e-a255-4dba-af70-1755c0e64274",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 150,
+      "sent_at": "2026-11-11T21:14:07.688280Z",
+      "body": "2s-1-ffcce9 mensaje 17"
+    },
+    {
+      "id": "a6c8fa94-8fe3-4653-bcb9-3fdba08244ff",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 151,
+      "sent_at": "2026-11-11T21:14:09.769688Z",
+      "body": "2s-1-ffcce9 mensaje 18"
+    },
+    {
+      "id": "c78fae3e-a6de-4384-8abd-f6cdcb4b85ce",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 152,
+      "sent_at": "2026-11-11T21:14:11.870548Z",
+      "body": "2s-1-ffcce9 mensaje 19"
+    },
+    {
+      "id": "098d207c-24fb-46e5-bfda-0fdf20663e3d",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 153,
+      "sent_at": "2026-11-11T21:14:13.948494Z",
+      "body": "2s-1-ffcce9 mensaje 20"
+    },
+    {
+      "id": "4221e6b9-8a24-4c12-bda3-fa8a6d5de039",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 154,
+      "sent_at": "2026-11-11T21:14:15.834661Z",
+      "body": "2s-1-ffcce9 mensaje 21"
+    },
+    {
+      "id": "3f10aacb-ddeb-4cbc-9cb5-636e83ad80bd",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 155,
+      "sent_at": "2026-11-11T21:14:17.746672Z",
+      "body": "2s-1-ffcce9 mensaje 22"
+    },
+    {
+      "id": "6348b0c7-7abe-4cd4-b4a9-5f76cf3a6abf",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 156,
+      "sent_at": "2026-11-11T21:14:19.667175Z",
+      "body": "2s-1-ffcce9 mensaje 23"
+    },
+    {
+      "id": "0688e90c-6786-409d-9874-da8bdef5418c",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 157,
+      "sent_at": "2026-11-11T21:14:21.550003Z",
+      "body": "2s-1-ffcce9 mensaje 24"
+    },
+    {
+      "id": "9dc52827-b7a6-4158-aefa-41e4dc14109c",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 158,
+      "sent_at": "2026-11-11T21:14:23.433586Z",
+      "body": "2s-1-ffcce9 mensaje 25"
+    },
+    {
+      "id": "69158293-0485-45c2-aa35-1d704e7cde7e",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 159,
+      "sent_at": "2026-11-11T21:14:25.343088Z",
+      "body": "2s-1-ffcce9 mensaje 26"
+    },
+    {
+      "id": "87dbcb49-3d0d-4b1d-b867-aae2dc808dd8",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 160,
+      "sent_at": "2026-11-11T21:14:26.796649Z",
+      "body": "2s-1-ffcce9 mensaje 27"
+    },
+    {
+      "id": "49eb503b-b3a9-49ca-b5b5-e44d0c94a11f",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 161,
+      "sent_at": "2026-11-11T21:14:28.702910Z",
+      "body": "2s-1-ffcce9 mensaje 28"
+    },
+    {
+      "id": "b4e08413-d6ca-40a5-a6bd-eaa6337fd3c0",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 162,
+      "sent_at": "2026-11-11T21:14:30.595940Z",
+      "body": "2s-1-ffcce9 mensaje 29"
+    },
+    {
+      "id": "39e7d8a8-b767-407c-b29a-af2db1938370",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 163,
+      "sent_at": "2026-11-11T21:14:32.482160Z",
+      "body": "2s-1-ffcce9 mensaje 30"
+    },
+    {
+      "id": "63bec4ce-ea50-4ce2-8d78-0de6fd0d486f",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 164,
+      "sent_at": "2026-11-11T21:14:34.401436Z",
+      "body": "2s-1-ffcce9 mensaje 31"
+    },
+    {
+      "id": "272b8517-e8d7-41a3-adb4-72b7c83d4399",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 165,
+      "sent_at": "2026-11-11T21:14:36.312385Z",
+      "body": "2s-1-ffcce9 mensaje 32"
+    },
+    {
+      "id": "f97623f5-dabe-4d76-abfa-6e8ae0fff3af",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 166,
+      "sent_at": "2026-11-11T21:14:38.295454Z",
+      "body": "2s-1-ffcce9 mensaje 33"
+    },
+    {
+      "id": "4d6e3c2f-ac32-4c76-8313-35942f77b76a",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 167,
+      "sent_at": "2026-11-11T21:14:40.165777Z",
+      "body": "2s-1-ffcce9 mensaje 34"
+    },
+    {
+      "id": "21553c85-6b95-4663-969a-93831210515a",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 168,
+      "sent_at": "2026-11-11T21:14:42.063369Z",
+      "body": "2s-1-ffcce9 mensaje 35"
+    },
+    {
+      "id": "3c64322d-6f71-4789-8c41-6b07dfb613e2",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 169,
+      "sent_at": "2026-11-11T21:14:43.973333Z",
+      "body": "2s-1-ffcce9 mensaje 36"
+    },
+    {
+      "id": "38cd013d-600d-4540-b740-c42e83c246b6",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 170,
+      "sent_at": "2026-11-11T21:14:45.859871Z",
+      "body": "2s-1-ffcce9 mensaje 37"
+    },
+    {
+      "id": "9b7fd964-62b9-49b3-97cc-a733eb444254",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 171,
+      "sent_at": "2026-11-11T21:14:47.754905Z",
+      "body": "2s-1-ffcce9 mensaje 38"
+    },
+    {
+      "id": "213560c7-111f-484d-9144-244d9caf7fe0",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 172,
+      "sent_at": "2026-11-11T21:14:49.655890Z",
+      "body": "2s-1-ffcce9 mensaje 39"
+    },
+    {
+      "id": "69d0eb97-166e-43aa-9042-e9e8f35551eb",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 173,
+      "sent_at": "2026-11-11T21:14:51.530147Z",
+      "body": "2s-1-ffcce9 mensaje 40"
+    }
+  ],
+  "received": [
+    {
+      "id": "4bc30b8b-0bca-4e8b-a744-e2e532d549d9",
+      "from": "diego@ga",
+      "origin": "ga",
+      "lamport": 1,
+      "sent_at": "2026-11-11T20:51:01.072416Z",
+      "body": "Hola desde el grupo ga",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "04b558d5-cce6-47c7-a093-09f521a788d3",
+      "from": "otro@gc",
+      "origin": "gc",
+      "lamport": 1,
+      "sent_at": "2026-11-11T21:06:31.999915Z",
+      "body": "evento tardío",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "7e64e3bb-7397-48a9-a21e-9812412e5019",
+      "from": "invitado@gb",
+      "origin": "gb",
+      "lamport": 3,
+      "sent_at": "2026-11-11T20:52:02.346935Z",
+      "body": "Mensaje recibido. Respondo desde gb.",
+      "delivery": "sent",
+      "error": null
+    },
+    {
+      "id": "bcc58677-9b0d-499e-acb5-ff4b66b16a93",
+      "from": "diego@ga",
+      "origin": "ga",
+      "lamport": 5,
+      "sent_at": "2026-11-11T20:53:24.925048Z",
+      "body": "PRUEBA DE PERSISTENCIA\n",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "409504d8-8d45-4c3f-b0c8-80257f3fb644",
+      "from": "diego@ga",
+      "origin": "ga",
+      "lamport": 6,
+      "sent_at": "2026-11-11T20:56:53.283495Z",
+      "body": "Durante la caída 1",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "dab5afe5-b13b-482b-b773-54e6636b089c",
+      "from": "diego@ga",
+      "origin": "ga",
+      "lamport": 7,
+      "sent_at": "2026-11-11T20:57:03.997388Z",
+      "body": "Durante la caída 2",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "43e9ffd2-d2e7-478d-9823-d4e406a3a537",
+      "from": "diego@ga",
+      "origin": "ga",
+      "lamport": 8,
+      "sent_at": "2026-11-11T20:57:16.395050Z",
+      "body": "Durante la caída 3",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "2cce15d7-daa2-4ca5-b645-d0faf81b9558",
+      "from": "diego@ga",
+      "origin": "ga",
+      "lamport": 9,
+      "sent_at": "2026-11-11T21:00:13.895829Z",
+      "body": "Mensaje guardado mientras el central está apagado",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "7dd8b362-6aa4-4e6f-8e9d-00cc2b2f1b5b",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 10,
+      "sent_at": "2026-11-11T21:06:31.999915Z",
+      "body": "mensaje de integración",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "165ac5dd-68b1-40e2-bca0-6f4087f34e1f",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 11,
+      "sent_at": "2026-11-11T21:07:01.847021Z",
+      "body": "guardado con central caído",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "6ab7ac2d-c993-429f-af98-a835190165b5",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 12,
+      "sent_at": "2026-11-11T21:07:19.371361Z",
+      "body": "historial durante caída del receptor",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "c21aeb6f-8d70-41de-b4ab-bd517b745017",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 14,
+      "sent_at": "2026-11-11T21:08:58.993208Z",
+      "body": "1s-1-668aad mensaje 1",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "0b974d37-ca48-44cd-bc0a-002736561982",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 15,
+      "sent_at": "2026-11-11T21:09:01.077659Z",
+      "body": "1s-1-668aad mensaje 2",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "e7093427-a5d2-4722-9847-dea1dddd8f0e",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 16,
+      "sent_at": "2026-11-11T21:09:03.115675Z",
+      "body": "1s-1-668aad mensaje 3",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "bcd2c403-136a-4882-8757-5723fc1a79b0",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 17,
+      "sent_at": "2026-11-11T21:09:05.172773Z",
+      "body": "1s-1-668aad mensaje 4",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "c60ac337-2b07-4986-a31a-e9ed3ef2d738",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 18,
+      "sent_at": "2026-11-11T21:09:07.271870Z",
+      "body": "1s-1-668aad mensaje 5",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "2f7617c7-46fd-4efb-ad32-698f30fd88de",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 19,
+      "sent_at": "2026-11-11T21:09:09.353480Z",
+      "body": "1s-1-668aad mensaje 6",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "8c9868e4-ce03-46ce-b40f-f097c16b6414",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 20,
+      "sent_at": "2026-11-11T21:09:11.454646Z",
+      "body": "1s-1-668aad mensaje 7",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "8825ce1c-af09-43d4-9851-2f014b8cb600",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 21,
+      "sent_at": "2026-11-11T21:09:13.525506Z",
+      "body": "1s-1-668aad mensaje 8",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "989f04d8-b5aa-44d3-8f6a-38795d74f4d8",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 22,
+      "sent_at": "2026-11-11T21:09:15.615106Z",
+      "body": "1s-1-668aad mensaje 9",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "82dbcd80-7ec4-4bde-97b0-c9965baf6aa2",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 23,
+      "sent_at": "2026-11-11T21:09:17.723005Z",
+      "body": "1s-1-668aad mensaje 10",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "680a33b2-7911-4e70-a6f3-e10923b7799e",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 24,
+      "sent_at": "2026-11-11T21:09:19.827096Z",
+      "body": "1s-1-668aad mensaje 11",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "60b2a4e3-a09e-437a-8da6-9cfdaa3517db",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 25,
+      "sent_at": "2026-11-11T21:09:21.928668Z",
+      "body": "1s-1-668aad mensaje 12",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "292284e1-70b0-48b4-a958-e22aec82d091",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 26,
+      "sent_at": "2026-11-11T21:09:23.984026Z",
+      "body": "1s-1-668aad mensaje 13",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "fc5ef101-9735-466e-97ec-046252e43ab2",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 27,
+      "sent_at": "2026-11-11T21:09:26.047269Z",
+      "body": "1s-1-668aad mensaje 14",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "408e5445-7d0e-4f3a-bfd8-bf330da30f17",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 28,
+      "sent_at": "2026-11-11T21:09:28.155476Z",
+      "body": "1s-1-668aad mensaje 15",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "3fc18d25-287e-4b9c-a4b3-2e531e832786",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 29,
+      "sent_at": "2026-11-11T21:09:30.246990Z",
+      "body": "1s-1-668aad mensaje 16",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "6b75d3b3-a063-4f96-954e-5ecd96fbe237",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 30,
+      "sent_at": "2026-11-11T21:09:32.318292Z",
+      "body": "1s-1-668aad mensaje 17",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "943403ff-ac23-49df-8c6c-3f608a17ba50",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 31,
+      "sent_at": "2026-11-11T21:09:34.397329Z",
+      "body": "1s-1-668aad mensaje 18",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "d928a4e0-d9cd-44ac-a4ac-fd3713664650",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 32,
+      "sent_at": "2026-11-11T21:09:36.486301Z",
+      "body": "1s-1-668aad mensaje 19",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "b1564c53-5685-4aac-bfc0-5650776fdf1b",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 33,
+      "sent_at": "2026-11-11T21:09:38.559136Z",
+      "body": "1s-1-668aad mensaje 20",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "634b2293-8cf0-495e-a599-6b46fd3e1f53",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 34,
+      "sent_at": "2026-11-11T21:09:40.643734Z",
+      "body": "1s-1-668aad mensaje 21",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "1e6584ea-233d-4063-ac1a-83c0d66daa5c",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 35,
+      "sent_at": "2026-11-11T21:09:42.746911Z",
+      "body": "1s-1-668aad mensaje 22",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "65ae539f-ab23-47ba-8ed2-79b1e2bb1d48",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 36,
+      "sent_at": "2026-11-11T21:09:44.868693Z",
+      "body": "1s-1-668aad mensaje 23",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "04f3182d-17bb-4ff4-8cda-521a2fa5fea2",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 37,
+      "sent_at": "2026-11-11T21:09:46.959429Z",
+      "body": "1s-1-668aad mensaje 24",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "d23a6733-0a43-4a15-b25f-eede2ab3af57",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 38,
+      "sent_at": "2026-11-11T21:09:49.087876Z",
+      "body": "1s-1-668aad mensaje 25",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "38142308-b45c-4ff8-9b7d-9059329382ec",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 39,
+      "sent_at": "2026-11-11T21:09:51.162218Z",
+      "body": "1s-1-668aad mensaje 26",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "7ddf1604-c463-49e9-96ab-48572111636f",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 40,
+      "sent_at": "2026-11-11T21:09:53.254146Z",
+      "body": "1s-1-668aad mensaje 27",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "45e9bbff-430d-4ef1-bf84-da94e97b576a",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 41,
+      "sent_at": "2026-11-11T21:09:55.348773Z",
+      "body": "1s-1-668aad mensaje 28",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "5a3bd653-9e1f-4240-84c7-0e9acc36e2ee",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 42,
+      "sent_at": "2026-11-11T21:09:57.422113Z",
+      "body": "1s-1-668aad mensaje 29",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "d38f0170-1702-4b01-bc60-874202380f4f",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 43,
+      "sent_at": "2026-11-11T21:09:59.494601Z",
+      "body": "1s-1-668aad mensaje 30",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "1f233382-6008-4bbe-bb91-02739fbee472",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 44,
+      "sent_at": "2026-11-11T21:10:01.590770Z",
+      "body": "1s-1-668aad mensaje 31",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "9a2c19be-e4bb-4efe-8328-73819832f615",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 45,
+      "sent_at": "2026-11-11T21:10:03.681549Z",
+      "body": "1s-1-668aad mensaje 32",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "abf0fffc-f342-4b43-915d-2f9ae8d3c931",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 46,
+      "sent_at": "2026-11-11T21:10:05.751686Z",
+      "body": "1s-1-668aad mensaje 33",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "1d686a9e-03fa-4228-bf5d-825af346dc87",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 47,
+      "sent_at": "2026-11-11T21:10:07.852997Z",
+      "body": "1s-1-668aad mensaje 34",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "dcd183f5-4521-4391-a821-01d31451ae58",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 48,
+      "sent_at": "2026-11-11T21:10:09.957171Z",
+      "body": "1s-1-668aad mensaje 35",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "6ce07019-1ea5-4c27-85ae-5ccc614c8dd7",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 49,
+      "sent_at": "2026-11-11T21:10:12.021134Z",
+      "body": "1s-1-668aad mensaje 36",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "bf9cbb43-0369-43de-818c-02675d704802",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 50,
+      "sent_at": "2026-11-11T21:10:14.136329Z",
+      "body": "1s-1-668aad mensaje 37",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "56d0768d-e24e-4a48-a0b4-5c61728c75f0",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 51,
+      "sent_at": "2026-11-11T21:10:16.231113Z",
+      "body": "1s-1-668aad mensaje 38",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "6a3c7a65-4acc-4a99-b1f5-8f13d499b476",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 52,
+      "sent_at": "2026-11-11T21:10:18.328869Z",
+      "body": "1s-1-668aad mensaje 39",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "eb354d1a-61e4-425e-ace6-0cff923b35d2",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 53,
+      "sent_at": "2026-11-11T21:10:20.399050Z",
+      "body": "1s-1-668aad mensaje 40",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "118b45be-633c-44a5-a4f3-35fd57dd9832",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 54,
+      "sent_at": "2026-11-11T21:10:30.730328Z",
+      "body": "1s-2-d876b7 mensaje 1",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "9530dd25-6011-4168-876c-a52a3492e1dd",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 55,
+      "sent_at": "2026-11-11T21:10:32.830128Z",
+      "body": "1s-2-d876b7 mensaje 2",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "91c31b53-bd78-4420-8248-9efdc9aa2164",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 56,
+      "sent_at": "2026-11-11T21:10:34.904976Z",
+      "body": "1s-2-d876b7 mensaje 3",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "e0cd2119-de70-4353-b347-e867f0b741b4",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 57,
+      "sent_at": "2026-11-11T21:10:36.990426Z",
+      "body": "1s-2-d876b7 mensaje 4",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "dfb0b2fd-df93-41ac-851a-1c774dc143e9",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 58,
+      "sent_at": "2026-11-11T21:10:39.110525Z",
+      "body": "1s-2-d876b7 mensaje 5",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "8acf436e-f1af-4e2d-994b-805b996806a4",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 59,
+      "sent_at": "2026-11-11T21:10:41.182995Z",
+      "body": "1s-2-d876b7 mensaje 6",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "add139c7-363e-4ce5-946d-f1349289328c",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 60,
+      "sent_at": "2026-11-11T21:10:43.270865Z",
+      "body": "1s-2-d876b7 mensaje 7",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "07797013-af28-430b-b35a-dc335e792a16",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 61,
+      "sent_at": "2026-11-11T21:10:45.362752Z",
+      "body": "1s-2-d876b7 mensaje 8",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "ccb72344-0e50-4971-b028-7e8a0d5ab87d",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 62,
+      "sent_at": "2026-11-11T21:10:47.452204Z",
+      "body": "1s-2-d876b7 mensaje 9",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "83107cd7-949c-4c5b-b25a-72e8bd3ca308",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 63,
+      "sent_at": "2026-11-11T21:10:49.496725Z",
+      "body": "1s-2-d876b7 mensaje 10",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "0505be16-0a1c-401d-a30c-0f15c2058375",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 64,
+      "sent_at": "2026-11-11T21:10:51.539780Z",
+      "body": "1s-2-d876b7 mensaje 11",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "4af38a13-3c14-4640-b200-1bd24e928596",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 65,
+      "sent_at": "2026-11-11T21:10:53.657475Z",
+      "body": "1s-2-d876b7 mensaje 12",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "dbbf41e1-54d8-43ae-8004-fda6aadfe513",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 66,
+      "sent_at": "2026-11-11T21:10:55.735661Z",
+      "body": "1s-2-d876b7 mensaje 13",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "e4ce1d6e-b15f-4470-b6bb-9f032e7a677a",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 67,
+      "sent_at": "2026-11-11T21:10:57.813825Z",
+      "body": "1s-2-d876b7 mensaje 14",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "18ee3641-d89f-4ca7-ad67-2108f202e90a",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 68,
+      "sent_at": "2026-11-11T21:10:59.890711Z",
+      "body": "1s-2-d876b7 mensaje 15",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "c2c0a298-088b-4d04-9352-396e8388ab6f",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 69,
+      "sent_at": "2026-11-11T21:11:02.011000Z",
+      "body": "1s-2-d876b7 mensaje 16",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "bfb8c2d7-2879-49c9-afb0-a33a76e66952",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 70,
+      "sent_at": "2026-11-11T21:11:04.373337Z",
+      "body": "1s-2-d876b7 mensaje 17",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "6e0cfecd-4e4b-4516-bf44-2dc90de9660d",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 71,
+      "sent_at": "2026-11-11T21:11:06.487993Z",
+      "body": "1s-2-d876b7 mensaje 18",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "6453d0c0-3d6b-46e7-8013-519e8c4726fc",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 72,
+      "sent_at": "2026-11-11T21:11:08.567567Z",
+      "body": "1s-2-d876b7 mensaje 19",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "3d147730-f0c9-43f6-a5be-58fe79a4f6d5",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 73,
+      "sent_at": "2026-11-11T21:11:10.628084Z",
+      "body": "1s-2-d876b7 mensaje 20",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "eb01100e-6476-4a0f-ad9a-eb8fea291108",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 74,
+      "sent_at": "2026-11-11T21:11:12.681735Z",
+      "body": "1s-2-d876b7 mensaje 21",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "7b04741a-00c7-460f-baeb-1fbcade91b7f",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 75,
+      "sent_at": "2026-11-11T21:11:14.767783Z",
+      "body": "1s-2-d876b7 mensaje 22",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "f81be495-5633-499c-b4f2-e332f39706d5",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 76,
+      "sent_at": "2026-11-11T21:11:16.855167Z",
+      "body": "1s-2-d876b7 mensaje 23",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "027460cb-6c5b-4de2-b45d-6deaaaa9d0e7",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 77,
+      "sent_at": "2026-11-11T21:11:18.904116Z",
+      "body": "1s-2-d876b7 mensaje 24",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "57ee7672-d5c7-496e-827b-707be388ea7c",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 78,
+      "sent_at": "2026-11-11T21:11:20.963400Z",
+      "body": "1s-2-d876b7 mensaje 25",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "344374bc-2da2-43ba-b0b4-92cf6ea384cd",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 79,
+      "sent_at": "2026-11-11T21:11:23.016666Z",
+      "body": "1s-2-d876b7 mensaje 26",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "1a9ffddd-add4-4f94-9a9f-bed08ea409e9",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 80,
+      "sent_at": "2026-11-11T21:11:25.083870Z",
+      "body": "1s-2-d876b7 mensaje 27",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "7d0c51b7-9ba1-4707-aade-43468042882d",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 81,
+      "sent_at": "2026-11-11T21:11:27.171387Z",
+      "body": "1s-2-d876b7 mensaje 28",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "5d47bdc7-bde0-47a2-8763-7a097c808a38",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 82,
+      "sent_at": "2026-11-11T21:11:29.252230Z",
+      "body": "1s-2-d876b7 mensaje 29",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "6eb10012-66f8-4e4e-a149-402624a77a27",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 83,
+      "sent_at": "2026-11-11T21:11:31.313436Z",
+      "body": "1s-2-d876b7 mensaje 30",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "30c50767-a0f8-4b08-9ce3-e33d1cfff171",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 84,
+      "sent_at": "2026-11-11T21:11:33.370879Z",
+      "body": "1s-2-d876b7 mensaje 31",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "44e1fe8f-1614-4de7-a4aa-14c7c9220658",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 85,
+      "sent_at": "2026-11-11T21:11:35.416388Z",
+      "body": "1s-2-d876b7 mensaje 32",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "60b1095a-f5c3-4a19-bd54-b910a79fec82",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 86,
+      "sent_at": "2026-11-11T21:11:37.495821Z",
+      "body": "1s-2-d876b7 mensaje 33",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "f021d346-84a3-4b30-b852-09ec2af69bd5",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 87,
+      "sent_at": "2026-11-11T21:11:39.551630Z",
+      "body": "1s-2-d876b7 mensaje 34",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "969fc374-5f1b-466e-8107-d347504abb61",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 88,
+      "sent_at": "2026-11-11T21:11:41.627565Z",
+      "body": "1s-2-d876b7 mensaje 35",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "4c552ab7-f46b-4e15-8988-d2017166ecbc",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 89,
+      "sent_at": "2026-11-11T21:11:43.723929Z",
+      "body": "1s-2-d876b7 mensaje 36",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "710b5a46-993a-4d12-b4de-d1bf1fbe404d",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 90,
+      "sent_at": "2026-11-11T21:11:45.836481Z",
+      "body": "1s-2-d876b7 mensaje 37",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "80075219-0a70-4986-94a7-d98114329316",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 91,
+      "sent_at": "2026-11-11T21:11:47.941769Z",
+      "body": "1s-2-d876b7 mensaje 38",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "95231cde-f5c4-403b-8065-71d8d0869e29",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 92,
+      "sent_at": "2026-11-11T21:11:50.028768Z",
+      "body": "1s-2-d876b7 mensaje 39",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "673ab65b-e2ff-40ab-9298-c9ddf17dc7c9",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 93,
+      "sent_at": "2026-11-11T21:11:52.108857Z",
+      "body": "1s-2-d876b7 mensaje 40",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "77af2ac3-044b-42ea-b249-a4a0f9bf069d",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 94,
+      "sent_at": "2026-11-11T21:12:02.413222Z",
+      "body": "1s-3-e89b8f mensaje 1",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "a51a0f08-d9bb-4fb1-835f-ab59e85a9fcd",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 95,
+      "sent_at": "2026-11-11T21:12:04.493994Z",
+      "body": "1s-3-e89b8f mensaje 2",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "f0174ad4-c7cb-47ba-ac4f-8c8477122365",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 96,
+      "sent_at": "2026-11-11T21:12:06.566457Z",
+      "body": "1s-3-e89b8f mensaje 3",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "282ea449-7b08-4e6f-aa5b-0786df19e07e",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 97,
+      "sent_at": "2026-11-11T21:12:08.673364Z",
+      "body": "1s-3-e89b8f mensaje 4",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "8a59ad30-d1e6-4d9c-b2b3-f73a7afe6513",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 98,
+      "sent_at": "2026-11-11T21:12:10.753033Z",
+      "body": "1s-3-e89b8f mensaje 5",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "9c1a1392-db0d-488f-b724-e95607552526",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 99,
+      "sent_at": "2026-11-11T21:12:12.840170Z",
+      "body": "1s-3-e89b8f mensaje 6",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "0c60efb3-04f3-4402-b6d7-9f8dc6fd202c",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 100,
+      "sent_at": "2026-11-11T21:12:14.878157Z",
+      "body": "1s-3-e89b8f mensaje 7",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "7806cf5c-00e3-4080-9737-6c4547df7359",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 101,
+      "sent_at": "2026-11-11T21:12:16.995768Z",
+      "body": "1s-3-e89b8f mensaje 8",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "605daaf1-3a06-4510-8554-e405569dddce",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 102,
+      "sent_at": "2026-11-11T21:12:19.310152Z",
+      "body": "1s-3-e89b8f mensaje 9",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "159d3601-adcc-421e-99c8-fef03859a584",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 103,
+      "sent_at": "2026-11-11T21:12:21.367393Z",
+      "body": "1s-3-e89b8f mensaje 10",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "8c7cdfeb-8e6e-4f14-97ad-173ec890ba18",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 104,
+      "sent_at": "2026-11-11T21:12:23.449473Z",
+      "body": "1s-3-e89b8f mensaje 11",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "488429cd-a42d-4e2f-9508-6dc4f7b4ae9f",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 105,
+      "sent_at": "2026-11-11T21:12:25.513223Z",
+      "body": "1s-3-e89b8f mensaje 12",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "15520316-713a-4ea4-a578-2ed19383c331",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 106,
+      "sent_at": "2026-11-11T21:12:27.599996Z",
+      "body": "1s-3-e89b8f mensaje 13",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "e5a9a201-51d9-4e60-9721-67742006a0ef",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 107,
+      "sent_at": "2026-11-11T21:12:29.667918Z",
+      "body": "1s-3-e89b8f mensaje 14",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "a0a678ee-2158-48e9-94be-af1b32e36fbd",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 108,
+      "sent_at": "2026-11-11T21:12:31.730574Z",
+      "body": "1s-3-e89b8f mensaje 15",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "1cf518c6-bf3d-4135-9a11-b88d0dfcb4ce",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 109,
+      "sent_at": "2026-11-11T21:12:33.796280Z",
+      "body": "1s-3-e89b8f mensaje 16",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "3471d68c-6147-4221-a272-f71089b12e8d",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 110,
+      "sent_at": "2026-11-11T21:12:35.887130Z",
+      "body": "1s-3-e89b8f mensaje 17",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "135a6bf0-cb61-4b5f-81fc-0e4795342263",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 111,
+      "sent_at": "2026-11-11T21:12:37.974790Z",
+      "body": "1s-3-e89b8f mensaje 18",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "ba0c4820-efb5-47e0-bbf4-1ed971c63ec5",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 112,
+      "sent_at": "2026-11-11T21:12:40.060548Z",
+      "body": "1s-3-e89b8f mensaje 19",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "bb2801ea-4732-4da4-92fa-886864afc2da",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 113,
+      "sent_at": "2026-11-11T21:12:42.143488Z",
+      "body": "1s-3-e89b8f mensaje 20",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "310dc046-c42d-494f-b81e-099e2fea73e0",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 114,
+      "sent_at": "2026-11-11T21:12:44.235733Z",
+      "body": "1s-3-e89b8f mensaje 21",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "1327e902-95cf-4a9f-b047-6b52e04646d5",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 115,
+      "sent_at": "2026-11-11T21:12:46.348210Z",
+      "body": "1s-3-e89b8f mensaje 22",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "6ce76ee5-6dfc-4785-b4e2-45a8e5e4f965",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 116,
+      "sent_at": "2026-11-11T21:12:48.425336Z",
+      "body": "1s-3-e89b8f mensaje 23",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "8cfed12c-6f71-45af-a433-7e06b67c4851",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 117,
+      "sent_at": "2026-11-11T21:12:50.500304Z",
+      "body": "1s-3-e89b8f mensaje 24",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "756cee8d-4f64-482d-b107-1fa1cbd53b43",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 118,
+      "sent_at": "2026-11-11T21:12:52.623218Z",
+      "body": "1s-3-e89b8f mensaje 25",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "d30c5a6d-ea64-4d51-8d0f-512e21136c2a",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 119,
+      "sent_at": "2026-11-11T21:12:54.671810Z",
+      "body": "1s-3-e89b8f mensaje 26",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "0cf7a545-e4f6-402d-99a6-4dc41bb9eb6e",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 120,
+      "sent_at": "2026-11-11T21:12:56.733093Z",
+      "body": "1s-3-e89b8f mensaje 27",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "ccd76ce4-587a-49d9-a650-c66c1e452bf2",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 121,
+      "sent_at": "2026-11-11T21:12:58.799255Z",
+      "body": "1s-3-e89b8f mensaje 28",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "c21c1f3e-e730-4d3b-ae0d-be307ca3d365",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 122,
+      "sent_at": "2026-11-11T21:13:00.896591Z",
+      "body": "1s-3-e89b8f mensaje 29",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "0cba561c-babb-4371-a219-bfd8b973b8fe",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 123,
+      "sent_at": "2026-11-11T21:13:02.991471Z",
+      "body": "1s-3-e89b8f mensaje 30",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "aa661e36-8b47-4e97-a7c1-b1e65d81cfef",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 124,
+      "sent_at": "2026-11-11T21:13:05.051365Z",
+      "body": "1s-3-e89b8f mensaje 31",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "7e4a5592-97a6-462b-ae6a-f7ae6ad8f92c",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 125,
+      "sent_at": "2026-11-11T21:13:07.122289Z",
+      "body": "1s-3-e89b8f mensaje 32",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "7760f4d0-f9c6-4648-89cb-ecacc43685e3",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 126,
+      "sent_at": "2026-11-11T21:13:09.219908Z",
+      "body": "1s-3-e89b8f mensaje 33",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "4bd47486-ec7a-42ba-961f-9be4361d1aa1",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 127,
+      "sent_at": "2026-11-11T21:13:11.320623Z",
+      "body": "1s-3-e89b8f mensaje 34",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "06cd94f5-2960-494f-9ebf-a111c1d246a1",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 128,
+      "sent_at": "2026-11-11T21:13:13.415461Z",
+      "body": "1s-3-e89b8f mensaje 35",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "67443a1f-bd7b-475e-9a9d-456b23c0595a",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 129,
+      "sent_at": "2026-11-11T21:13:15.503192Z",
+      "body": "1s-3-e89b8f mensaje 36",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "0fe8c672-cc18-41f5-879f-fce7e7735f4d",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 130,
+      "sent_at": "2026-11-11T21:13:17.593978Z",
+      "body": "1s-3-e89b8f mensaje 37",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "66ca0e8c-a165-485a-a9e2-490621ae6447",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 131,
+      "sent_at": "2026-11-11T21:13:19.687233Z",
+      "body": "1s-3-e89b8f mensaje 38",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "09417f37-4a3c-492b-be7b-f53523ba7c86",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 132,
+      "sent_at": "2026-11-11T21:13:21.779092Z",
+      "body": "1s-3-e89b8f mensaje 39",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "d75e3449-e6aa-4c91-93c5-5b7724e02835",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 133,
+      "sent_at": "2026-11-11T21:13:23.873595Z",
+      "body": "1s-3-e89b8f mensaje 40",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "38661d66-5dcb-4181-a321-d83f083c80f6",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 134,
+      "sent_at": "2026-11-11T21:13:34.236974Z",
+      "body": "2s-1-ffcce9 mensaje 1",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "31e4b30d-a888-4fa3-b01f-94eea15869ce",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 135,
+      "sent_at": "2026-11-11T21:13:36.331772Z",
+      "body": "2s-1-ffcce9 mensaje 2",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "5d543980-d055-48e3-abb6-090629315786",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 136,
+      "sent_at": "2026-11-11T21:13:38.376961Z",
+      "body": "2s-1-ffcce9 mensaje 3",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "bb60018d-893f-4f76-95b0-f9bade69ee47",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 137,
+      "sent_at": "2026-11-11T21:13:40.419580Z",
+      "body": "2s-1-ffcce9 mensaje 4",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "49b1e84a-01c4-48be-bedd-f91414c1c9d6",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 138,
+      "sent_at": "2026-11-11T21:13:42.492558Z",
+      "body": "2s-1-ffcce9 mensaje 5",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "39a45271-7612-4c5f-a9c1-bd54439cfb2f",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 139,
+      "sent_at": "2026-11-11T21:13:44.586896Z",
+      "body": "2s-1-ffcce9 mensaje 6",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "0e823671-7db0-40b6-9900-df9833d71c98",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 140,
+      "sent_at": "2026-11-11T21:13:46.653913Z",
+      "body": "2s-1-ffcce9 mensaje 7",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "af38e896-0302-4812-8ee9-fe8ef8a90918",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 141,
+      "sent_at": "2026-11-11T21:13:48.712275Z",
+      "body": "2s-1-ffcce9 mensaje 8",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "40437515-092b-4d36-8de1-0c6c88907d6e",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 142,
+      "sent_at": "2026-11-11T21:13:50.787809Z",
+      "body": "2s-1-ffcce9 mensaje 9",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "c8003a1f-de32-42d8-a6df-e0481fac5faa",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 143,
+      "sent_at": "2026-11-11T21:13:52.851396Z",
+      "body": "2s-1-ffcce9 mensaje 10",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "11199655-894f-4cbf-96a1-af5423ddc828",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 144,
+      "sent_at": "2026-11-11T21:13:55.147711Z",
+      "body": "2s-1-ffcce9 mensaje 11",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "43c6019d-533a-414e-a94f-52db42478ff1",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 145,
+      "sent_at": "2026-11-11T21:13:57.238734Z",
+      "body": "2s-1-ffcce9 mensaje 12",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "eb54f50a-ce0e-401b-8866-45f9e59211bc",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 146,
+      "sent_at": "2026-11-11T21:13:59.332390Z",
+      "body": "2s-1-ffcce9 mensaje 13",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "1c6cb8bb-e8d8-4fe5-bafc-cd9e96d84f85",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 147,
+      "sent_at": "2026-11-11T21:14:01.442255Z",
+      "body": "2s-1-ffcce9 mensaje 14",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "f1612c0d-0f71-4114-b2a5-0a8b48b665e5",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 148,
+      "sent_at": "2026-11-11T21:14:03.508506Z",
+      "body": "2s-1-ffcce9 mensaje 15",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "6e6f337c-cf9f-4934-804c-a4251b629c3a",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 149,
+      "sent_at": "2026-11-11T21:14:05.616885Z",
+      "body": "2s-1-ffcce9 mensaje 16",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "b534dc5e-a255-4dba-af70-1755c0e64274",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 150,
+      "sent_at": "2026-11-11T21:14:07.688280Z",
+      "body": "2s-1-ffcce9 mensaje 17",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "a6c8fa94-8fe3-4653-bcb9-3fdba08244ff",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 151,
+      "sent_at": "2026-11-11T21:14:09.769688Z",
+      "body": "2s-1-ffcce9 mensaje 18",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "c78fae3e-a6de-4384-8abd-f6cdcb4b85ce",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 152,
+      "sent_at": "2026-11-11T21:14:11.870548Z",
+      "body": "2s-1-ffcce9 mensaje 19",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "098d207c-24fb-46e5-bfda-0fdf20663e3d",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 153,
+      "sent_at": "2026-11-11T21:14:13.948494Z",
+      "body": "2s-1-ffcce9 mensaje 20",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "4221e6b9-8a24-4c12-bda3-fa8a6d5de039",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 154,
+      "sent_at": "2026-11-11T21:14:15.834661Z",
+      "body": "2s-1-ffcce9 mensaje 21",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "3f10aacb-ddeb-4cbc-9cb5-636e83ad80bd",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 155,
+      "sent_at": "2026-11-11T21:14:17.746672Z",
+      "body": "2s-1-ffcce9 mensaje 22",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "6348b0c7-7abe-4cd4-b4a9-5f76cf3a6abf",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 156,
+      "sent_at": "2026-11-11T21:14:19.667175Z",
+      "body": "2s-1-ffcce9 mensaje 23",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "0688e90c-6786-409d-9874-da8bdef5418c",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 157,
+      "sent_at": "2026-11-11T21:14:21.550003Z",
+      "body": "2s-1-ffcce9 mensaje 24",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "9dc52827-b7a6-4158-aefa-41e4dc14109c",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 158,
+      "sent_at": "2026-11-11T21:14:23.433586Z",
+      "body": "2s-1-ffcce9 mensaje 25",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "69158293-0485-45c2-aa35-1d704e7cde7e",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 159,
+      "sent_at": "2026-11-11T21:14:25.343088Z",
+      "body": "2s-1-ffcce9 mensaje 26",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "87dbcb49-3d0d-4b1d-b867-aae2dc808dd8",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 160,
+      "sent_at": "2026-11-11T21:14:26.796649Z",
+      "body": "2s-1-ffcce9 mensaje 27",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "49eb503b-b3a9-49ca-b5b5-e44d0c94a11f",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 161,
+      "sent_at": "2026-11-11T21:14:28.702910Z",
+      "body": "2s-1-ffcce9 mensaje 28",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "b4e08413-d6ca-40a5-a6bd-eaa6337fd3c0",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 162,
+      "sent_at": "2026-11-11T21:14:30.595940Z",
+      "body": "2s-1-ffcce9 mensaje 29",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "39e7d8a8-b767-407c-b29a-af2db1938370",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 163,
+      "sent_at": "2026-11-11T21:14:32.482160Z",
+      "body": "2s-1-ffcce9 mensaje 30",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "63bec4ce-ea50-4ce2-8d78-0de6fd0d486f",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 164,
+      "sent_at": "2026-11-11T21:14:34.401436Z",
+      "body": "2s-1-ffcce9 mensaje 31",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "272b8517-e8d7-41a3-adb4-72b7c83d4399",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 165,
+      "sent_at": "2026-11-11T21:14:36.312385Z",
+      "body": "2s-1-ffcce9 mensaje 32",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "f97623f5-dabe-4d76-abfa-6e8ae0fff3af",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 166,
+      "sent_at": "2026-11-11T21:14:38.295454Z",
+      "body": "2s-1-ffcce9 mensaje 33",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "4d6e3c2f-ac32-4c76-8313-35942f77b76a",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 167,
+      "sent_at": "2026-11-11T21:14:40.165777Z",
+      "body": "2s-1-ffcce9 mensaje 34",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "21553c85-6b95-4663-969a-93831210515a",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 168,
+      "sent_at": "2026-11-11T21:14:42.063369Z",
+      "body": "2s-1-ffcce9 mensaje 35",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "3c64322d-6f71-4789-8c41-6b07dfb613e2",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 169,
+      "sent_at": "2026-11-11T21:14:43.973333Z",
+      "body": "2s-1-ffcce9 mensaje 36",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "38cd013d-600d-4540-b740-c42e83c246b6",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 170,
+      "sent_at": "2026-11-11T21:14:45.859871Z",
+      "body": "2s-1-ffcce9 mensaje 37",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "9b7fd964-62b9-49b3-97cc-a733eb444254",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 171,
+      "sent_at": "2026-11-11T21:14:47.754905Z",
+      "body": "2s-1-ffcce9 mensaje 38",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "213560c7-111f-484d-9144-244d9caf7fe0",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 172,
+      "sent_at": "2026-11-11T21:14:49.655890Z",
+      "body": "2s-1-ffcce9 mensaje 39",
+      "delivery": "received",
+      "error": null
+    },
+    {
+      "id": "69d0eb97-166e-43aa-9042-e9e8f35551eb",
+      "from": "prueba@ga",
+      "origin": "ga",
+      "lamport": 173,
+      "sent_at": "2026-11-11T21:14:51.530147Z",
+      "body": "2s-1-ffcce9 mensaje 40",
+      "delivery": "received",
+      "error": null
+    }
+  ],
+  "send_timings": [
+    {
+      "index": 1,
+      "elapsed_s": 2.1051933999406174,
+      "id": "38661d66-5dcb-4181-a321-d83f083c80f6"
+    },
+    {
+      "index": 2,
+      "elapsed_s": 4.169508600025438,
+      "id": "31e4b30d-a888-4fa3-b01f-94eea15869ce"
+    },
+    {
+      "index": 3,
+      "elapsed_s": 6.214421999990009,
+      "id": "5d543980-d055-48e3-abb6-090629315786"
+    },
+    {
+      "index": 4,
+      "elapsed_s": 8.256916799931787,
+      "id": "bb60018d-893f-4f76-95b0-f9bade69ee47"
+    },
+    {
+      "index": 5,
+      "elapsed_s": 10.35816339997109,
+      "id": "49b1e84a-01c4-48be-bedd-f91414c1c9d6"
+    },
+    {
+      "index": 6,
+      "elapsed_s": 12.455655899946578,
+      "id": "39a45271-7612-4c5f-a9c1-bd54439cfb2f"
+    },
+    {
+      "index": 7,
+      "elapsed_s": 14.49063379992731,
+      "id": "0e823671-7db0-40b6-9900-df9833d71c98"
+    },
+    {
+      "index": 8,
+      "elapsed_s": 16.57871829997748,
+      "id": "af38e896-0302-4812-8ee9-fe8ef8a90918"
+    },
+    {
+      "index": 9,
+      "elapsed_s": 18.624487399938516,
+      "id": "40437515-092b-4d36-8de1-0c6c88907d6e"
+    },
+    {
+      "index": 10,
+      "elapsed_s": 20.939928299980238,
+      "id": "c8003a1f-de32-42d8-a6df-e0481fac5faa"
+    },
+    {
+      "index": 11,
+      "elapsed_s": 23.013040199992247,
+      "id": "11199655-894f-4cbf-96a1-af5423ddc828"
+    },
+    {
+      "index": 12,
+      "elapsed_s": 25.106910799979232,
+      "id": "43c6019d-533a-414e-a94f-52db42478ff1"
+    },
+    {
+      "index": 13,
+      "elapsed_s": 27.201748799998313,
+      "id": "eb54f50a-ce0e-401b-8866-45f9e59211bc"
+    },
+    {
+      "index": 14,
+      "elapsed_s": 29.279890800011344,
+      "id": "1c6cb8bb-e8d8-4fe5-bafc-cd9e96d84f85"
+    },
+    {
+      "index": 15,
+      "elapsed_s": 31.37384309992194,
+      "id": "f1612c0d-0f71-4114-b2a5-0a8b48b665e5"
+    },
+    {
+      "index": 16,
+      "elapsed_s": 33.4849221999757,
+      "id": "6e6f337c-cf9f-4934-804c-a4251b629c3a"
+    },
+    {
+      "index": 17,
+      "elapsed_s": 35.526127899996936,
+      "id": "b534dc5e-a255-4dba-af70-1755c0e64274"
+    },
+    {
+      "index": 18,
+      "elapsed_s": 37.635323800030164,
+      "id": "a6c8fa94-8fe3-4653-bcb9-3fdba08244ff"
+    },
+    {
+      "index": 19,
+      "elapsed_s": 39.73860259994399,
+      "id": "c78fae3e-a6de-4384-8abd-f6cdcb4b85ce"
+    },
+    {
+      "index": 20,
+      "elapsed_s": 41.82331639993936,
+      "id": "098d207c-24fb-46e5-bfda-0fdf20663e3d"
+    },
+    {
+      "index": 21,
+      "elapsed_s": 43.881230199942365,
+      "id": "4221e6b9-8a24-4c12-bda3-fa8a6d5de039"
+    },
+    {
+      "index": 22,
+      "elapsed_s": 45.96957970003132,
+      "id": "3f10aacb-ddeb-4cbc-9cb5-636e83ad80bd"
+    },
+    {
+      "index": 23,
+      "elapsed_s": 48.03188339993358,
+      "id": "6348b0c7-7abe-4cd4-b4a9-5f76cf3a6abf"
+    },
+    {
+      "index": 24,
+      "elapsed_s": 50.0859238000121,
+      "id": "0688e90c-6786-409d-9874-da8bdef5418c"
+    },
+    {
+      "index": 25,
+      "elapsed_s": 52.14045740000438,
+      "id": "9dc52827-b7a6-4158-aefa-41e4dc14109c"
+    },
+    {
+      "index": 26,
+      "elapsed_s": 54.2529892999446,
+      "id": "69158293-0485-45c2-aa35-1d704e7cde7e"
+    },
+    {
+      "index": 27,
+      "elapsed_s": 56.32859329995699,
+      "id": "87dbcb49-3d0d-4b1d-b867-aae2dc808dd8"
+    },
+    {
+      "index": 28,
+      "elapsed_s": 58.37755750003271,
+      "id": "49eb503b-b3a9-49ca-b5b5-e44d0c94a11f"
+    },
+    {
+      "index": 29,
+      "elapsed_s": 60.44286009995267,
+      "id": "b4e08413-d6ca-40a5-a6bd-eaa6337fd3c0"
+    },
+    {
+      "index": 30,
+      "elapsed_s": 62.531266600009985,
+      "id": "39e7d8a8-b767-407c-b29a-af2db1938370"
+    },
+    {
+      "index": 31,
+      "elapsed_s": 64.62343009992037,
+      "id": "63bec4ce-ea50-4ce2-8d78-0de6fd0d486f"
+    },
+    {
+      "index": 32,
+      "elapsed_s": 66.78609670000151,
+      "id": "272b8517-e8d7-41a3-adb4-72b7c83d4399"
+    },
+    {
+      "index": 33,
+      "elapsed_s": 68.84170589991845,
+      "id": "f97623f5-dabe-4d76-abfa-6e8ae0fff3af"
+    },
+    {
+      "index": 34,
+      "elapsed_s": 70.88173919997644,
+      "id": "4d6e3c2f-ac32-4c76-8313-35942f77b76a"
+    },
+    {
+      "index": 35,
+      "elapsed_s": 72.98212539998349,
+      "id": "21553c85-6b95-4663-969a-93831210515a"
+    },
+    {
+      "index": 36,
+      "elapsed_s": 75.0350745000178,
+      "id": "3c64322d-6f71-4789-8c41-6b07dfb613e2"
+    },
+    {
+      "index": 37,
+      "elapsed_s": 77.09589519992005,
+      "id": "38cd013d-600d-4540-b740-c42e83c246b6"
+    },
+    {
+      "index": 38,
+      "elapsed_s": 79.18961589992978,
+      "id": "9b7fd964-62b9-49b3-97cc-a733eb444254"
+    },
+    {
+      "index": 39,
+      "elapsed_s": 81.23384959995747,
+      "id": "213560c7-111f-484d-9144-244d9caf7fe0"
+    },
+    {
+      "index": 40,
+      "elapsed_s": 83.28120229998603,
+      "id": "69d0eb97-166e-43aa-9042-e9e8f35551eb"
+    }
+  ],
+  "missing_ids": [],
+  "unexpected_ids": [],
+  "converged": true
+}

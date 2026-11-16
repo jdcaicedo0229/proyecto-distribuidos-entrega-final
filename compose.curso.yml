@@ -1,0 +1,27 @@
+name: chat-distribuido-curso
+services:
+  grupo:
+    build: .
+    environment:
+      GROUP_ID: ${GROUP_ID:?Falta GROUP_ID asignado por el profesor}
+      CENTRAL_URL: ${CENTRAL_URL:?Falta CENTRAL_URL del profesor}
+      PUBLIC_URL: ${PUBLIC_URL:?Falta PUBLIC_URL alcanzable desde el central}
+      DB_PATH: /data/group.db
+      HEARTBEAT_INTERVAL: ${HEARTBEAT_INTERVAL:-2}
+      FAILURE_THRESHOLD: ${FAILURE_THRESHOLD:-3}
+      REGISTER_INTERVAL: ${REGISTER_INTERVAL:-10}
+      SYNC_INTERVAL: ${SYNC_INTERVAL:-5}
+      HTTP_TIMEOUT: ${HTTP_TIMEOUT:-3}
+      RETRY_BASE: ${RETRY_BASE:-1}
+      RETRY_MAX: ${RETRY_MAX:-30}
+    ports: ["${PORT:-8001}:8000"]
+    volumes: ["group-data:/data"]
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8000/fed/health', timeout=2)"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+volumes:
+  group-data:
+    name: chat-curso-${GROUP_ID:?Falta GROUP_ID}-data
